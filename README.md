@@ -8,5 +8,12 @@ In this project, the SEP-28k dataset is utilized to perform comparative analysis
 
 ## Dataset
 The SEP-28k dataset, published by Apple Machine Learning Research, is used for training and evaluation. It includes audio clips extracted from podcasts with various stuttering events annotated.
-<img width="550" alt="image" src="https://github.com/Ramitha-V/Stutter-Detection-and-Classification/assets/162662008/bd132e26-b6da-4016-a542-19843db8c81a">
+
+<p align="center">
+    <img width="550" alt="image" src="https://github.com/Ramitha-V/Stutter-Detection-and-Classification/assets/162662008/bd132e26-b6da-4016-a542-19843db8c81a">
+</p>
+
+
+
+
 
