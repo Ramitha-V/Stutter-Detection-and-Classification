@@ -7,7 +7,7 @@ Automatically detecting stuttering events in speech recordings could assist spee
 In this project, the SEP-28k dataset is utilized to perform comparative analysis to assess the performance of various machine learning models in classifying the five dysfluency types namely Prolongation, Interjection, Word Repetition, Sound Repetition and Blocks.
 
 ## Dataset
-The SEP-28k dataset, published by Apple Machine Learning Research, is used for training and evaluation. It includes audio clips extracted from podcasts with various stuttering events annotated.
+The SEP-28k dataset, published by Apple Machine Learning Research, is used for training and evaluation.It consists of audio recordings from six podcast shows and is annotated with various dysfluency types. The dataset is multi-label and multi-class, with annotations done by at least three annotators.
 
 <p align="center">
     <img width="550" alt="image" src="https://github.com/Ramitha-V/Stutter-Detection-and-Classification/assets/162662008/bd132e26-b6da-4016-a542-19843db8c81a">
