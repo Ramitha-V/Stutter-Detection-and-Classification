@@ -15,11 +15,8 @@ In this project, the SEP-28k dataset is utilized to perform comparative analysis
 ## Dataset
 The SEP-28k dataset, published by Apple Machine Learning Research, is used for training and evaluation.It consists of audio recordings from six podcast shows and is annotated with various dysfluency types. The dataset is multi-label and multi-class, with annotations done by at least three annotators.
 
-**Annotations: The SEP-28k dataset includes annotations for audio clips, labeled by at least three annotators. These labels cover various categories such as 'Unsure', 'PoorAudioQuality', 'Music', 'DifficultToUnderstand', 'Interjection', 'Prolongation', 'Blocks', 'WordRep', 'SoundRep', 'NoStutteredWords', 'NoSpeech', and 'NaturalPause'. Each 3-second clip can have multiple labels, making the dataset both multi-label and multi-class. 
-- Negative Correlation: 'NoStutteredWords' and the five dysfluency classes are rarely labeled together, showing strong inter-annotator agreement.
-- Weak Positive Correlations:
-'Block' and 'NaturalPause' (0.11): Annotators struggle to distinguish between these, often requiring physical cues.
-'PoorAudioQuality' and 'DifficultToUnderstand' (0.20): Annotators frequently label the same clips with these categories.
+Annotations: The SEP-28k dataset includes annotations for audio clips, labeled by at least three annotators. These labels cover various categories such as 'Unsure', 'PoorAudioQuality', 'Music', 'DifficultToUnderstand', 'Interjection', 'Prolongation', 'Blocks', 'WordRep', 'SoundRep', 'NoStutteredWords', 'NoSpeech', and 'NaturalPause'. Each 3-second clip can have multiple labels, making the dataset both multi-label and multi-class. 
+
    
 
 
