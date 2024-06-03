@@ -50,3 +50,4 @@ The following features were extracted:
 Both training and testing were done on the SEP-28k dataset where the train to test ratio is 70:30. The main evaluation metric considered for choosing the models for each class is accuracy, as the data for each class was balanced. Other metrics considered are F1-score, accuracy, precision, recall, confusion matrix and ROC-AUC.
 
 ## Deployment:
+https://github.com/Ramitha-V/Stutter-Detection-and-Classification/assets/162662008/0f9b8ac6-bcea-439d-857a-e8e0754d3081
